@@ -1,0 +1,1 @@
+gatsby-sanity-shopify-web
